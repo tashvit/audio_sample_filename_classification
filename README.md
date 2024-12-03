@@ -4,7 +4,7 @@ Filename classification done with Random Forest Classifier using LSTM model outp
 
 Classifying audio sample file names based on text and non-sonic metadata (multi-class classification)
 
-
+![diagram](https://github.com/tashvit/audio_sample_filename_classification/blob/main/models_diagram.png "diagram")
 
 Notebook contents:
 
