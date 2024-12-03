@@ -1,6 +1,6 @@
-# audio_sample_filename_classification
+# Audio sample filename classification
 
-[Kaggle dataset link]([https://duckduckgo.com](https://www.kaggle.com/datasets/nethasha/audio-sample-file-category-dataset))
+[Kaggle dataset link](https://www.kaggle.com/datasets/nethasha/audio-sample-file-category-dataset)
 
 Filename classification done with Random Forest Classifier using LSTM model output + numerical features from dataset.
 
